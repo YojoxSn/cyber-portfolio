@@ -1,0 +1,21 @@
+# 📝 Write-ups & Walkthroughs
+
+Collection of detailed penetration testing guides from TryHackMe and CTF competitions.
+
+## Structure
+
+Each write-up includes:
+- **Reconnaissance** - Information gathering & enumeration
+- **Exploitation** - Vulnerability identification & exploitation
+- **Privilege Escalation** - Path to root/admin access
+- **Lessons Learned** - Key takeaways & methodology
+
+## Write-ups (Coming Soon)
+
+1. Room Name - Difficulty Level
+2. Room Name - Difficulty Level
+3. Room Name - Difficulty Level
+
+---
+
+*Last Updated: October 2026*
